@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\bin\Debug\net6.0-windows\Controllers.deps.json
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\bin\Debug\net6.0-windows\Modelos.dll
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\bin\Debug\net6.0-windows\Modelos.pdb
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CopyComplete
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.dll
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\refint\Controllers.dll
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\Controllers.pdb
+C:\Users\Rafael\source\repos\SistemasPlenario\Controllers\obj\Debug\net6.0-windows\ref\Controllers.dll

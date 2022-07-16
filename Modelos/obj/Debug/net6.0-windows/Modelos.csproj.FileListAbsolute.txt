@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\bin\Debug\net6.0-windows\Modelos.deps.json
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\bin\Debug\net6.0-windows\Modelos.runtimeconfig.json
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\bin\Debug\net6.0-windows\Modelos.dll
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\bin\Debug\net6.0-windows\Modelos.pdb
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.dll
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\refint\Modelos.dll
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.pdb
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\Modelos.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\SistemasPlenario\Modelos\obj\Debug\net6.0-windows\ref\Modelos.dll
